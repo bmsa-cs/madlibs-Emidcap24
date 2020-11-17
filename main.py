@@ -6,8 +6,8 @@ Period/Core: 5
 
 
 """
-#this will print the f/string and the intro
-print(f"Hello,"+ "user")
+#this will print the intro
+print("Hello,"+ "user")
 print("I hope you have a\nGood day")
 
 #the next series of input's will ask for the answers for the madlib 
